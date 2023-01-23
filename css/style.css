@@ -50,6 +50,12 @@ header {
     margin: 0 auto;
 }
 
+.home_content h1 span {
+    color: #eb0b0b;
+    background-color: #0078D7;
+    cursor: pointer;
+}
+
 
 
 @media(max-width:760px) {
